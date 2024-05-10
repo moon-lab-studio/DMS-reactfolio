@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		"Experienced freelance designer and educator with a master's in Illustration from SCAD. Skilled in creating engaging instructional content for graphic design, motion graphics, and video editing. Known for integrating motion graphics to enhance learning. Passionate about fostering creativity and skill development in students.",
+		keywords: ["Andrew", "MacDonald", "Drew", "McDonald", "motion", "motion design", "motion graphics", "mograph", "after effects", "design", "designer"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		"Experienced freelance designer and educator with a master's in Illustration from SCAD. Skilled in creating engaging instructional content for graphic design, motion graphics, and video editing. Known for integrating motion graphics to enhance learning. Passionate about fostering creativity and skill development in students.",
+			keywords: ["Andrew", "MacDonald", "Drew", "McDonald", "motion", "motion design", "motion graphics", "mograph", "after effects", "design", "designer"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"My articles and tutorialas on Envato Tuts+ and Moon Lab.",
+			keywords: ["Andrew", "MacDonald", "Drew", "McDonald", "motion", "motion design", "motion graphics", "mograph", "after effects", "design", "designer", "how to", "tutorial", "how do you", "How do I", "illustrator", "graphic design"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		"I got my start in video editing and motion graphics in my student labor position in the Berea College PR department. Since then I've worked on a variety of projects, from large brass and granite installations to front end web development and UI design. I always return to animation though and my diverse skill set has proven extremely helpful when it comes to After Effects expressions, VEX and animation frameworks.",
+		keywords: ["Andrew", "MacDonald", "Drew", "McDonald", "motion", "motion design", "motion graphics", "mograph", "after effects", "design", "designer"],
 	},
 
 	{
 		page: "contact",
 		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Looking for help on a project? Need an animator? Or do you just want to get in touch? Let me know, I'm always open to new opportunities!",
+			keywords: ["Andrew", "MacDonald", "Drew", "McDonald", "motion", "motion design", "motion graphics", "mograph", "after effects", "design", "designer"],
 	},
 ];
 
