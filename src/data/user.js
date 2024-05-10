@@ -37,7 +37,7 @@ const INFO = {
 			title: "Design Elements: Line",
 			description:
 			"Line is the first stage of just about every design. Learn how to use it more effectively",
-			logo: "https://i9.ytimg.com/vi/ZWKf_S-pK2g/maxresdefault.jpg?v=620ae58e&sqp=CKC09bEG&rs=AOn4CLCo4_piCDbBbMyfb2CjMz8sXYiwPg",
+			thumbnail: "https://ucarecdn.com/ee228b05-227b-4439-af05-98601592572a/-/scale_crop/300x200/smart/",
 			linkText: "View Project",
 			link: "https://youtu.be/ZWKf_S-pK2g",
 			embed:"https://www.youtube.com/embed/ZWKf_S-pK2g?si=o-vSUsHW8m2B6yKf",
