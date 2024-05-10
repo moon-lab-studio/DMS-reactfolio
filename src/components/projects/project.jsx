@@ -11,13 +11,13 @@ const Project = (props) => {
 	return (
 		<React.Fragment>
 			<div className="project">
-				<Link to={link}>
+				<Link to={link} target="_blank">
 					<div className="project-container">
 						<div className="project-logo">
 							{/*<img src={logo} alt="logo" />*/}
 						</div>
 						<div classname="project-thumbnail">
-							<img src={thumbnail} alt="motion design project thumbnail" />
+							<img src={"https://ucarecdn.com/" + thumbnail + "/-/scale_crop/300x200/smart/"} alt="motion design project thumbnail" />
 						</div>
 						<div className="project-title">{title}</div>
 						<div className="project-description">{description}</div>

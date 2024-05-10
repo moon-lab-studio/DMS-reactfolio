@@ -34,40 +34,43 @@ const INFO = {
 	},
 	projects: [
 		{
+			title: "Affiniy Designer 2 Course",
+			description:
+				"Learn Affinity Designer 2 with this amazing FREE course. Learn all the essential tools and techniques you need to know to get started!",
+			thumbnail: "316978e0-36f8-4076-a0ac-ca10a81b9abf",
+			linkText: "Watch video",
+			link: "https://youtu.be/stX0simAgVk?si=WGaLVrIif7BHX0fe",
+		},
+
+		{
 			title: "Design Elements: Line",
 			description:
 			"Line is the first stage of just about every design. Learn how to use it more effectively",
-			thumbnail: "https://ucarecdn.com/ee228b05-227b-4439-af05-98601592572a/-/scale_crop/300x200/smart/",
-			linkText: "View Project",
+			thumbnail: "ee228b05-227b-4439-af05-98601592572a",
+			linkText: "Watch video",
 			link: "https://youtu.be/ZWKf_S-pK2g",
 			embed:"https://www.youtube.com/embed/ZWKf_S-pK2g?si=o-vSUsHW8m2B6yKf",
 		},
 
+
 		{
-			title: "Affiniy Designer 2 Course",
+			title: "What is Knockout in Adobe Illustrator?",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://youtu.be/stX0simAgVk?si=NkrbY1bUJ_Eto7cF",
+				"There are lots of ways to work with transparency in Adobe Illustrator but none of them are quite as flexible or fast as knockout groups.",
+			thumbnail: "bc81ac8f-5f27-448a-a18d-f5286440ddc3",
+			//logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			linkText: "Watch video",
+			link: "https://youtu.be/5AiDboEz0f8",
 		},
 
 		{
-			title: "Project 3",
+			title: "Fast, live halftone in After Effects CC",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			thumbnail: "2f6a63f0-c609-4125-9a66-6465049ad35a",
+			//logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://youtu.be/HMwSNg7jo94",
 		},
 
 		{
